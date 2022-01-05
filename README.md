@@ -5,7 +5,7 @@ The value of an existing user on TikTok is $40.4 based on my calculations. What 
 
 ## Files Attached:
 - Click [here](https://drive.google.com/file/d/1Jv0VgCSXFVM4Rr-WiVektq68bgFavWPD/view?usp=sharing) to view the presentation.
-- [Tiktok User Valuation](TikTok User Valuation Model.xlsx)
+- Ticket User Evaluation Model (attached spreadsheet).
 - [Industry Research](TikTok.ipynb)
 
 ## Paper Referenced
